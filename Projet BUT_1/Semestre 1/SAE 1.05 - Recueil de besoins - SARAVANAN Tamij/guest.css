@@ -1,0 +1,164 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Coupon-of-real-WAX-W-1615.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 995px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 1079px;
+  min-height: 688px;
+  background-image: linear-gradient(#db545a, #7c4f08);
+  margin: 114px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  line-height: 2;
+  font-weight: 700;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  text-align: center;
+  margin: 31px 359px 0 408px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  margin: -500px 792px 0 25px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  text-align: center;
+  margin: -500px 25px 25px 792px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 820px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 290px;
+    margin-left: 339px;
+    width: 202px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 678px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 678px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 628px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 180px;
+    margin-left: 229px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 458px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 458px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1384px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-bottom: 0;
+    min-height: 1683px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 30px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 129px;
+    margin-left: 140px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin: 0 129px 0 140px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 871px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1687px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 12px;
+    margin-right: 35px;
+    margin-left: 46px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 24px;
+    margin-left: 46px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 24px;
+    margin-left: 46px;
+  }
+}

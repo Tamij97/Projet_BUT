@@ -1,0 +1,288 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/REAL-WAX-African-Printed-Fabrics-W-1620.jpg");
+  background-position: 50% 50%;
+  background-size: auto 110%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1259px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  width: 264px;
+  margin: 108px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 552px;
+  background-image: linear-gradient(#478ac9, #db545a);
+  width: 723px;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-1 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-label-2 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-2 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-3 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-4 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-5 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 178px;
+  height: 178px;
+  filter: brightness(0.95);
+  background-image: url("images/download.jpg");
+  background-position: 50% 50%;
+  margin: 14px auto 0 471px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 341px;
+  min-height: 160px;
+  background-image: url("images/835819132-0.jpeg");
+  background-position: 50% 50%;
+  margin: 0 auto 60px 389px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 64px;
+  width: 64px;
+  background-image: none;
+  margin: 36px 217px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -50px 20px 0 96px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none none solid;
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-align: left;
+  margin: 2px 5px 0 91px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none none solid;
+  padding: 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: -1px 217px 0 0;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none none solid;
+  margin: -22px 0 0 auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1170px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 175px;
+    height: 175px;
+    margin-top: 12px;
+    margin-right: 379px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 137px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: 14px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1143px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 28px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 136px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 26px;
+    padding-right: 26px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: 18px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -55px;
+    margin-right: 24px;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 9px;
+    margin-left: 95px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 3px;
+    margin-right: 225px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: -26px;
+    margin-right: 4px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1183px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 70px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 134px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: 25px;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 238px;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: -27px;
+    margin-right: 37px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1215px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: 217px;
+    margin-top: 74px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-top: 26px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-right: 36px;
+  }
+}
