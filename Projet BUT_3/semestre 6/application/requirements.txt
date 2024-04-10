@@ -1,0 +1,11 @@
+flask
+bcrypt
+transformers
+torch
+gunicorn
+googletrans-py
+streamlit
+requests
+python-docx
+pymupdf
+reportlab

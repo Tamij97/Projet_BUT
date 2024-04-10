@@ -1,0 +1,2 @@
+class ModelNotSelectedException(Exception):
+    pass
